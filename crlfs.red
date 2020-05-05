@@ -1,6 +1,5 @@
 Red [needs: view]
 
-
 view [
 text {
 123
